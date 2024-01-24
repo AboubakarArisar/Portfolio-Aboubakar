@@ -8,18 +8,15 @@ const Projects = () => {
       link: "https://github.com/AboubakarArisar/Pindari-Coders-Website",
     },
     {
-      name: "Spotify Clone",
+      name: "Projects-and-payments",
       technologies:
-        "Next.js 13, React Hook Form, Zustand, Radix UI, Typescript, Tailwind CSS",
-      link: "https://github.com/nwaliaez/spotify-clone",
-      image: "/projects/spotify-clone.gif",
+        "React js, React Hook Form, Redux, Express js, Mongo db,  Tailwind CSS",
+      link: "https://github.com/AboubakarArisar/Pindari-Coders-Website",
     },
     {
       name: "Amazon Clone",
-      technologies:
-        "NodeJs, Express, Mongoose, Next.js 13, Next Auth, React Hook Form, Typescript, Tailwind CSS",
-      link: "https://github.com/nwaliaez/eCommerce",
-      image: "/projects/amazon-clone.jpeg",
+      technologies: "NodeJs, Express, Mongoose, React Hook Form,  Tailwind CSS",
+      link: "https://github.com/AboubakarArisar/Pindari-Coders-Website",
     },
   ];
 
